@@ -2,10 +2,9 @@
 
 ### 🚀 Software Developer | Problem Solver | Tech Enthusiast
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com)
+[![GitHub followers](https://github.com/vinaysaipavan/)
+[![LinkedIn](https://www.linkedin.com/in/vinay-sai-pavan-banduchode/)
+
 
 ---
 

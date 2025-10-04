@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vinay  
+# 👋 Hi, I'm Vinay sai pavan 
 
 🎓 BTech Student | 💻 Frontend Developer (React + Tailwind) | 🌱 Learning Backend & AI  
 

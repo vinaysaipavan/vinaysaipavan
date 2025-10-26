@@ -83,12 +83,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaysaipavan&layout=compact&theme=tokyonight" height="180em" />
 </div>
 
-
 ---
 
-## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vinay-sai-pavan-banduchode/) 
-
----
-
-⭐️ From [Vinay](https://github.com/vinaysaipavan)  
+⭐️ From [Vinay sai pavan](https://github.com/vinaysaipavan)  

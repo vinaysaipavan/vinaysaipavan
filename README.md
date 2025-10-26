@@ -4,16 +4,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vinaysaipavan&label=Profile%20Views&color=00F7FF&style=for-the-badge)
 
----
-
 ## 🚀 About Me  
 - 🔭 Currently building **projects with React and Tailwind CSS**  
 - 🌱 Learning **Node.js, MongoDB, postgreSQL** for backend development  
 - 📘 Exploring **Data Structures & Algorithms (DSA)** and **Machine Learning (NLP focus)**  
 - 💡 Interested in **hackathons, open-source contributions, and GSoC 2026 preparation**  
 - 🎯 Goal: To become a **full-stack developer** and work on **AI-powered applications**  
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider"/>

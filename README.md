@@ -44,9 +44,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/drago/main/assets/dragon.gif" width="650" alt="My Evolving Dragon">
+  <img src="https://raw.githubusercontent.com/vinaysaipavan/drago/main/assets/dragon.gif" width="650" alt="My Evolving Dragon">
   <br>
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/drago/main/assets/dragon-status.svg" width="650" alt="Drago Status Card">
+  <img src="https://raw.githubusercontent.com/vinaysaipavan/drago/main/assets/dragon-status.svg" width="650" alt="Drago Status Card">
 </p>
 
 <p align="center">

@@ -43,7 +43,6 @@
 
 </p>
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider"/>
 </p>
@@ -76,6 +75,11 @@
 
 ---
 
+## 🤝 Featured / Collaborated Projects
+- 🐉 **[Drago](https://github.com/Deepak-Kambala/Drago)** – Collaborated with [Deepak-Kambala](https://github.com/Deepak-Kambala)
+
+---
+
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -85,4 +89,4 @@
 
 ---
 
-⭐️ From [Vinay sai pavan](https://github.com/vinaysaipavan)  
+⭐️ From [Vinay sai pavan](https://github.com/vinaysaipavan)

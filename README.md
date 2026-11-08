@@ -44,6 +44,12 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/drago/main/assets/dragon.gif" width="650" alt="My Evolving Dragon">
+  <br>
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/drago/main/assets/dragon-status.svg" width="650" alt="Drago Status Card">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider"/>
 </p>
 
@@ -75,10 +81,6 @@
 
 ---
 
-## 🤝 Featured / Collaborated Projects
-- 🐉 **[Drago](https://github.com/Deepak-Kambala/Drago)** – Collaborated with [Deepak-Kambala](https://github.com/Deepak-Kambala)
-
----
 
 ## 📊 GitHub Stats  
 
